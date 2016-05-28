@@ -6,6 +6,7 @@ public class revser {
 		
 		String name= new String();
 		System.out.println("enter string");
+		fghjgg
 		
 		
 	}
